@@ -1,0 +1,106 @@
+
+        h1{
+            color: lightcoral ;
+        }
+        .H2{
+            color: lightcoral;
+        }
+        html{
+            background-image: url(Universe.jpeg);
+        }
+        .Camel{
+            color: #ffffff;
+            font-family: fantasy;
+            padding-left: 300px;
+        }
+
+        .Chameleon{
+            color: #ffffff;
+            font-family: fantasy;
+            padding-left: 300px;
+        }
+
+        .Panda{
+            color: #ffffff;
+            font-family: fantasy;
+            padding-left: 300px;
+        }
+
+        .Cicada{
+            color: #ffffff;
+            font-family: fantasy;
+            padding-left: 300px;
+        }
+
+        .Teddy{
+            color: #ffffff;
+            font-family: fantasy;
+            padding-left: 300px;
+        }
+
+        .Pigeon{
+            color: #ffffff;
+            font-family: fantasy;
+            padding-left: 300px;
+        }
+
+        .CamelImg{
+             border: solid;
+         border-width: 3px;
+         border-radius: 13px ;
+         border-color: purple;
+padding-left: 500px;
+        }
+
+        .ChameleonImg{
+             border: solid;
+         border-width: 3px;
+         border-radius: 13px ;
+         border-color: purple;;
+         padding-left: 500px;
+        }
+
+        .PandaImg{
+             border: solid;
+         border-width: 3px;
+         border-radius: 13px ;
+         border-color: purple;;
+         padding-left: 500px;
+        }
+
+        .CicadaImg{
+             border: solid;
+         border-width: 3px;
+         border-radius: 13px ;
+         border-color: purple;;
+         padding-left: 500px;
+        }
+
+        .TeddyImg{
+             border: solid;
+         border-width: 3px;
+         border-radius: 8px ;
+         border-color: purple;
+         padding-left: 500px;
+        }
+
+        .PigeonImg{
+             border: solid;
+         border-width: 3px;
+         border-radius: 13px ;
+         border-color: purple;;
+         padding-left: 500px;
+        }
+
+        a:link{
+            color: purple;
+        }
+
+        a:visited{
+            color: red;
+        }
+
+        .PigeonImg:hover{
+transform: scale(1.2);
+        }
+
